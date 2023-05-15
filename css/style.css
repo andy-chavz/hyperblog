@@ -6,6 +6,19 @@
     margin: 0 auto;
     
 }
+.cabecera{
+    width: 90%;
+    background-color: rgb(167, 163, 163);
+    height: 7vh;
+    text-align: start;
+    font-size: 23px;
+    font-weight: bold;
+    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+    margin: 0 auto;
+}
+.cabecera p{
+ margin-left: 5px;
+}
 h1{
     color:hotpink;
     font-size: 36px;

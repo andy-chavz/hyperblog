@@ -28,3 +28,15 @@ p{
     color: #333;
     font-size: 25px;
 }
+footer{
+    position: fixed;
+    bottom: 0px;
+    height: 10vh;
+    width: 100%;
+    background-color: hotpink;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
